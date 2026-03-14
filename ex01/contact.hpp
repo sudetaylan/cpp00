@@ -1,7 +1,5 @@
 #include <string>
 #include <iostream>
-#include <iomanip>
-#include <cctype>
 
 class Contact
 {
